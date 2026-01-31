@@ -214,27 +214,7 @@ int main()
         // ==============================
         case 2:
 
-            // Mostra informações sobre o jogo e os participantes
-            cout << " --------------------------------------" << endl;
-            cout << "|| UNIVALI - Itajai                   ||" << endl;
-            cout << "|| Ciencia da Computacao              ||" << endl;
-            cout << "|| 10/2025                            ||" << endl;
-            cout << "|| Professor: Rafael Ballotin Martins ||" << endl;
-            cout << "|| Algoritmos e Programacao I         ||" << endl;
-            cout << "||                                    ||" << endl;
-            cout << "|| Academicos:                        ||" << endl;
-            cout << "||  Lucas Souto                       ||" << endl;
-            cout << "||  João Victor                       ||" << endl;
-            cout << "||  Bernardo Sieno                    ||" << endl;
-            cout << "||  Pablo Virgilio                    ||" << endl;
-            cout << " --------------------------------------" << endl;
-            cout << " --------------------------------------" << endl;
-            cout << "|| REGRAS:                            ||" << endl;
-            cout << "|| - Use apenas letras maiusculas     ||" << endl;
-            cout << "|| - Cada palavra contem 6 letras     ||" << endl;
-            cout << "|| - Voce tem 10 tentativas           ||" << endl;
-            cout << "|| - Tentativas so caem se errar      ||" << endl;
-            cout << " --------------------------------------" << endl;
+           
             break;
 
         // ==============================
