@@ -1,3 +1,5 @@
+//Jogo da Forca
+
 #include <iostream>
 #include <cstdlib>   // Biblioteca usada para gerar números aleatórios (rand, srand)
 #include <ctime>     // Biblioteca usada para pegar o tempo atual (time)
@@ -214,7 +216,18 @@ int main()
         // ==============================
         case 2:
 
-           
+            // Mostra informações sobre o jogo e os participantes
+            cout << " --------------------------------------" << endl;
+            cout << "|| Autor:                             ||" << endl;
+            cout << "||  Lucas Souto                       ||" << endl;
+            cout << " --------------------------------------" << endl;
+            cout << " --------------------------------------" << endl;
+            cout << "|| REGRAS:                            ||" << endl;
+            cout << "|| - Use apenas letras maiusculas     ||" << endl;
+            cout << "|| - Cada palavra contem 6 letras     ||" << endl;
+            cout << "|| - Voce tem 10 tentativas           ||" << endl;
+            cout << "|| - Tentativas so caem se errar      ||" << endl;
+            cout << " --------------------------------------" << endl;
             break;
 
         // ==============================
